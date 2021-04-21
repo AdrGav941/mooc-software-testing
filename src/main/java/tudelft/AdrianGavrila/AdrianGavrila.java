@@ -7,7 +7,7 @@ public class AdrianGavrila {
     int studentNumber = 90392179;
 
     public String getFullName() {
-        return (firstName + lastName);
+        return (firstName + " " + lastName);
     }
 
     public String getFirstName() {
